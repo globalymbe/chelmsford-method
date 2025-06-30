@@ -123,7 +123,7 @@ VIII. Appendix: Sample Weekly Format Sheet
 
 Welcome to the Techne Circle. Our format is simple:
 
-1. Grab a coffee and a seat.  
+1. Buy a coffee and grab a seat.  
 2. Introduce yourself casually during the preamble.  
 3. When it's your turn, share your "Week in Tech."  
 4. Listen with curiosity, speak with brevity, share what matters.  
